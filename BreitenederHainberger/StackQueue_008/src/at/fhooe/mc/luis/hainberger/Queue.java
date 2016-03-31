@@ -5,6 +5,8 @@ public class Queue {
 	int head, top, size;
 	int counter;
 
+	int newvar;
+
 	/** Initializes the queue instance */
 	// public void initQueue(int size) {
 	// queue = new int[size];
@@ -18,6 +20,7 @@ public class Queue {
 		top = 0;
 		counter = 0;
 		head = 0;
+		newvar = 99;
 	}
 
 	/** Enqueues an element at the back of the queue */
