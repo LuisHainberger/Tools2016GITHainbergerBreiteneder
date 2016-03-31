@@ -5,6 +5,8 @@ public class Queue {
 	int head, top, size;
 
 	int counter;
+
+	String new;
 public int howOld(){
 int i;
 }
