@@ -6,6 +6,7 @@ public class Queue {
 
 	int counter;
 public int howOld(){
+int luis = 0;
 }
 
 	int newvar;
