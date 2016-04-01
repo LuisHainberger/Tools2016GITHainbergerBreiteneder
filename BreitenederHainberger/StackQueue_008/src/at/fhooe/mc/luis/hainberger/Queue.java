@@ -3,7 +3,10 @@ package at.fhooe.mc.luis.hainberger;
 public class Queue {
 	int[] queue;
 	int head, top, size;
+
 	int counter;
+public int howOld(){
+}
 
 	/** Initializes the queue instance */
 	// public void initQueue(int size) {
