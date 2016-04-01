@@ -8,6 +8,8 @@ public class Queue {
 public int howOld(){
 }
 
+	int newvar;
+
 	/** Initializes the queue instance */
 	// public void initQueue(int size) {
 	// queue = new int[size];
@@ -21,6 +23,7 @@ public int howOld(){
 		top = 0;
 		counter = 0;
 		head = 0;
+		newvar = 99;
 	}
 
 	/** Enqueues an element at the back of the queue */
